@@ -36,7 +36,7 @@ Aqui estão alguns dos projetos mais recentes que desenvolvi:
 
 Este portfólio está hospedado no GitHub Pages. Para acessá-lo, clique no link abaixo:
 
-[Visite meu portfólio online]([https://seu-usuario.github.io/seu-repositorio](https://ghostdev-creator.github.io/Portfolio-GhostDev/))
+[Visite meu portfólio online](https://ghostdev-creator.github.io/Portfolio-GhostDev/)
 
 ## Contato
 
